@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/inicio_nav"
+        android:title="Inicio"
+        android:icon="@drawable/ic_home"
+        />
+    <item android:id="@+id/spin_nav"
+        android:title="Spinner"
+        android:icon="@drawable/ic_spin"
+        />
+</menu>

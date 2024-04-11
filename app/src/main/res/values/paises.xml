@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="paises_array">
+        <item>Croacia</item>
+        <item>España</item>
+        <item>Monaco</item>
+        <item>Polonia</item>
+        <item>Andorra</item>
+        <item>Belgica</item>
+        <item>Islandia</item>
+        <item>Alemania</item>
+        <item>Austria</item>
+    </string-array>
+</resources>
